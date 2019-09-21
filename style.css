@@ -13,3 +13,15 @@ igm {
   margin-right: auto;
 }
 
+a:link {
+  text-align: center;
+  background-color: blue;
+  padding-left: 10px;
+  padding-right: 10px
+}
+
+
+
+
+
+
